@@ -1,59 +1,172 @@
-## Introduction
+There are many different characters available for you to use. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You can use your keyboard to add characters or copy and paste from the list below. 
 
-### What you will make
+To access more characters using your keyboard:
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Windows: 
++ Turn on NumLock
++ Hold down the Alt key
++ Type the Alt Code value on the number pad
++ Release the Alt key 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Mac: 
++ Hold down the Option key
++ Press any alphanumeric or special symbol key
++ Release the Option key
+* For a further set of characters, hold down the Option key and Shift key then press any alphanumeric or special symbol key.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Linux: 
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Below are some additional characters that you might not find on your keyboard but could use in your project. You can copy them from here:
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+!
+"
+#
+$
+%
+&
+(
+)
+*
++
+,
+-
+.
+/
+:
+;
+<
+=
+>
+?
+@
+[
+\
+]
+^
+_
+`
+{
+|
+}
+~
+€
+ƒ
+„
+…
+†
+‡
+ˆ
+‰
+Š
+‹
+Œ
+Ž
+“
+”
+•
+–
+—
+˜
+™
+š
+›
+œ
+ž
+Ÿ
+¡
+¢
+£
+¤
+¥
+¦
+§
+¨
+©
+ª
+«
+¬
+­
+®
+¯
+°
+±
+²
+³
+´
+µ
+¶
+·
+¸
+¹
+º
+»
+¼
+½
+¾
+¿
+À
+Á
+Â
+Ã
+Ä
+Å
+Æ
+Ç
+È
+É
+Ê
+Ë
+Ì
+Í
+Î
+Ï
+Ð
+Ñ
+Ò
+Ó
+Ô
+Õ
+Ö
+×
+Ø
+Ù
+Ú
+Û
+Ü
+Ý
+Þ
+ß
+à
+á
+â
+ã
+ä
+å
+æ
+ç
+è
+é
+ê
+ë
+ì
+í
+î
+ï
+ð
+ñ
+ò
+ó
+ô
+õ
+ö
+÷
+ø
+ù
+ú
+û
+ü
+ý
+þ
+ÿ
